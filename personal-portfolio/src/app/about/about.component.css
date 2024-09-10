@@ -1,0 +1,17 @@
+.about {
+    padding: 20px;
+  }
+  .about h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  .about ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .about li {
+    background: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
